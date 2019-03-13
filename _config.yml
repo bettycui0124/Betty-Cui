@@ -1,1 +1,7 @@
 theme: jekyll-theme-leap-day
+title: "Betty Cui MEME"
+description: "Spring 2019 Program"
+github:
+  show_downloads: false
+  is_project_page: false
+  html_show_sourcelink: false
